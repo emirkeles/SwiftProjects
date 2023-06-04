@@ -37,11 +37,11 @@
     <img src="Photos/ByteCoin.png" alt="Project 5">
 </p>
 ---
-<h1 align="center">Alisveris Listesi</h1>
-<h3>The app to save products with photos, prices and sizes for later purchase using Core Data</h3>
+<h1 align="center">Movie Search</h1>
+<h3>In this application, movies that match the word you are looking for in the text field are displayed as a list. When you tap a movie, you are transferred to the view that contains information about the movie.</h3>
 <p align="center">
-    <img src="Photos/AlisverisListesi1.png" alt="Project 6.1">
-    <img src="Photos/AlisverisListesi2.png" alt="Project 6.2">
+    <img src="Photos/MovieSearch1.png" alt="Project 6.1">
+    <img src="Photos/MovieSearch.png" alt="Project 6.2">
 </p>
 
 ---
@@ -98,12 +98,6 @@
     <img src="Photos/EmirCard.png" alt="Project 13">
 </p>
 
----
-<h1 align="center">Movie Search</h1>
-<h3>Simple personal card made by Swift UI.</h3>
-<p align="center">
-    <img src="Photos/MovieSearch2.png" alt="Project 14.1">
-    <img src="Photos/MovieSearch1.png" alt="Project 14.2">
-</p>
+
 
 
