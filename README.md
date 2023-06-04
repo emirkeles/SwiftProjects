@@ -31,6 +31,7 @@
 </p>
 
 ---
+
 <h1 align="center">Byte Coin</h1>
 <h3>The application that gets the instant value of Bitcoin with api and presents it to the user with different currencies.</h3>
 <p align="center">
@@ -41,10 +42,11 @@
 <h3>In this application, movies that match the word you are looking for in the text field are displayed as a list. When you tap a movie, you are transferred to the view that contains information about the movie.</h3>
 <p align="center">
     <img src="Photos/MovieSearch1.png" alt="Project 6.1">
-    <img src="Photos/MovieSearch.png" alt="Project 6.2">
+    <img src="Photos/MovieSearch2.png" alt="Project 6.2">
 </p>
 
 ---
+
 <h1 align="center">Clima</h1>
 <h3>It gives the weather information at the instant location with GPS or the searched location. Background image changes in dark and light mode and icons change according to the weather.</h3>
 <p align="center">
@@ -53,6 +55,7 @@
 </p>
 
 ---
+
 <h1 align="center">Egg Timer</h1>
 <h3>A Time keeping app for boiling eggs. Tap the egg image how you like and the alarm will sound after the required time has elapsed.</h3>
 <p align="center">
@@ -60,6 +63,7 @@
 </p>
 
 ---
+
 <h1 align="center">Flash Chat</h1>
 <h3>Messaging app that keeps messages and users in Firebase</h3>
 <p align="center">
@@ -68,6 +72,7 @@
 </p>
 
 ---
+
 <h1 align="center">Magic 8 Ball</h1>
 <h3>Magic Eight Ball App</h3>
 <p align="center">
@@ -75,6 +80,7 @@
 </p>
 
 ---
+
 <h1 align="center">Tipsy</h1>
 <h3>The application that makes it easy to split the price per person.</h3>
 <p align="center">
@@ -83,6 +89,7 @@
 </p>
 
 ---
+
 <h1 align="center">Super Hero Book</h1>
 <h3>In this application made using Swift UI, superheroes are shown in the list. When you click on the superhero, the superhero's name, profession, city name are displayed. Also the city is shown on the map.</h3>
 <p align="center">
@@ -97,7 +104,3 @@
 <p align="center">
     <img src="Photos/EmirCard.png" alt="Project 13">
 </p>
-
-
-
-
