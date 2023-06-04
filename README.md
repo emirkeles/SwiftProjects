@@ -1,7 +1,7 @@
 <h1 align="center">AR Ruler</h1>
 <h3>A ruler app that works with Augmented Reality.</h3>
 <p align="center">
-    <img src="Photos/AR_Ruler.png" alt="Project1">
+    <img src="Photos/AR_Ruler.PNG" alt="Project1">
 </p>
 
 ---
