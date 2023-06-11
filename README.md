@@ -14,7 +14,7 @@
 
 ---
 
-<h1 align="center">Alisveris Listesi</h1>
+<h1 align="center">Shopping List</h1>
 <h3>The app to save products with photos, prices and sizes for later purchase using Core Data.</h3>
 <p align="center">
     <img src="Photos/AlisverisListesi1.png" alt="Project 3.1">
